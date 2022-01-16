@@ -1,4 +1,4 @@
-### Hi there 👋
+﻿### First Commit! Git yyds！
 
 <!--
 **sui2372722746/sui2372722746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
